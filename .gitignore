@@ -1,0 +1,7 @@
+*.sif
+*.tar.gz
+*.zip
+*.qza
+tmp/
+q2home/
+__pycache__/
