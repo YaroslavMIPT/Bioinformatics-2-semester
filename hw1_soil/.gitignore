@@ -1,0 +1,23 @@
+# Образы контейнеров и окружение
+*.sif
+q2home/
+tmp/
+
+# Тяжелые промежуточные данные и кэш
+qza/
+core-metrics-results/*.qza
+*.log
+slurm-*.out
+
+# Системные и вспомогательные файлы LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+fastqc/
+qzv/
+core-metrics-results/
+
