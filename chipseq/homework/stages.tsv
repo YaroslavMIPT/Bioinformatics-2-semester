@@ -1,0 +1,5 @@
+stage	role	ChIP	Input
+75ep	homework	data/75ep/foxd3_75ep_chip.nuclear.bam	data/75ep/foxd3_75ep_input.nuclear.bam
+1-2ss	homework	data/1-2ss/foxd3_1-2ss_chip.nuclear.bam	data/1-2ss/foxd3_1-2ss_input.nuclear.bam
+5-6ss	teacher example	teacher_example/5-6ss/	teacher_example/5-6ss/
+14ss	seminar	data/14ss/foxd3_14ss_chip.nuclear.bam	data/14ss/foxd3_14ss_input.nuclear.bam
